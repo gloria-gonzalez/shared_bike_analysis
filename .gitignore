@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+misc.xml
+modules.xml
+shared_bike_analysis.iml
+vcs.xml
